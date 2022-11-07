@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ziqi-zhang
 - 👀 I’m interested in the interaction between software engineering and AI (SE&AI) as well as the security and privacy issues of AI models.
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on SE&AI and AI security
 - 📫 How to reach me: you can contact me via email
 
